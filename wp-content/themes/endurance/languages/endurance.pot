@@ -1,0 +1,668 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Endurance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-15 08:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:63
+#, php-format
+msgid "%s Video Guide"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:206
+msgid "0"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:207
+msgid "19"
+msgstr ""
+
+#. 1: date, 2: time
+#: functions.php:382
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Theme name and version
+#: ilovewp-admin/ilovewp-theme-settings.php:75
+#, php-format
+msgid ""
+"<span class=\"theme-name\">%1$s Theme</span> <span class=\"theme-version\">"
+"(version %2$s)</span>"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:195
+msgid ""
+"Ability to select the sidebar location individually for each page and post."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:74
+msgid "Add a Rating for Endurance"
+msgstr ""
+
+#: footer.php:33
+msgid "All Rights Reserved. "
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"Apologies, but the requested page cannot be found. Perhaps searching will "
+"help find a related page."
+msgstr ""
+
+#: search.php:19
+msgid "Apologies, but the search query did not return any results."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:215
+msgid "Automatic Updates"
+msgstr ""
+
+#: customizer/sections/background.php:14
+msgid "Background Color"
+msgstr ""
+
+#: 404.php:21 search.php:21
+msgid "Browse Categories"
+msgstr ""
+
+#: customizer/sections/general.php:9
+msgid "Centered"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:190
+msgid ""
+"Change the font and font size for the main elements on the website directly "
+"from the Customizer."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:114
+msgid "Click the image below to open the video guide in a new browser tab."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:185
+msgid "Color Customization"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: footer.php:33
+msgid "Copyright &copy; "
+msgstr ""
+
+#. This is the copyright notice that appears in the footer of the website.
+#: customizer/helpers-defaults.php:7
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: customizer/sections/footer.php:17
+msgid "Copyright Text"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:180
+msgid "Created for the Block Editor"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:205
+msgid "Custom Block Patterns"
+msgstr ""
+
+#. %1$s current user display name.
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:62
+#, php-format
+msgid ""
+"Dear %1$s! I hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you can spare a moment, please consider adding a rating for %4$s on "
+"WordPress.org. %3$sIt helps me continue providing updates and support for "
+"this theme."
+msgstr ""
+
+#. %1$s current user display name.
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:64
+#, php-format
+msgid ""
+"Dear %1$s! I hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you like the free Endurance Theme, you will love my new multipurpose "
+"theme, which is also great for church websites. %3$s%4$s is a new (2022) "
+"theme that makes it very easy to create a professional WordPress website."
+msgstr ""
+
+#: customizer/sections/general.php:8
+msgid "Default"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:200
+msgid "Demo Content Importer"
+msgstr ""
+
+#: customizer/sections/general.php:35
+msgid "Display Featured Pages on Homepage"
+msgstr ""
+
+#: customizer/sections/general.php:94
+msgid "Display the Dynamic Menu in Sidebar of Pages"
+msgstr ""
+
+#: customizer/sections/general.php:83
+msgid "Display the excerpts of Featured Pages"
+msgstr ""
+
+#: customizer/sections/general.php:105
+msgid "Display the Featured Images on Single Pages"
+msgstr ""
+
+#: customizer/sections/general.php:116
+msgid "Display the Parent Page Title"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:94
+msgid "Documentation and Support"
+msgstr ""
+
+#: functions.php:364 functions.php:392
+msgid "Edit"
+msgstr ""
+
+#. Name of the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:166
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:54
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:47
+msgid "Endurance"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Endurance is a free WordPress theme for church websites, ngo websites, "
+"nonprofits, governmental and nongovernmental websites, such as schools, "
+"kindergartens, museums, etc. The homepage can display 3 Featured Pages. "
+"Inner pages have an automatic menu that links to your parent and child pages."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:49
+msgid "Endurance Theme"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:69
+msgid "Endurance Theme Screenshot"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:115
+msgid "Endurance Theme Video Tutorial"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:212
+msgid "Extensive"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:165
+msgid "Feature"
+msgstr ""
+
+#: customizer/sections/general.php:46
+msgid "Featured Page #1"
+msgstr ""
+
+#: customizer/sections/general.php:59
+msgid "Featured Page #2"
+msgstr ""
+
+#: customizer/sections/general.php:71
+msgid "Featured Page #3"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:190
+msgid "Font Customization"
+msgstr ""
+
+#: customizer/customizer.php:178 customizer/sections/footer.php:8
+msgid "Footer"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:29
+msgid "Footer: Column 1"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:38
+msgid "Footer: Column 2"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:47
+msgid "Footer: Column 3"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:56
+msgid "Footer: Column 4"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:167
+msgid "Foundation"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:75
+msgid "FOUNDATION Details & Video"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:159
+msgid ""
+"Foundation is our newest WordPress theme for photographers. It contains many "
+"additional features and customization options. It also comes with priority "
+"one-on-one support."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:212
+msgid ""
+"Frequent theme updates will contain new features, block patterns and other "
+"ideas suggested by our customers."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:187
+#: ilovewp-admin/ilovewp-theme-settings.php:192
+msgid "Full"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:187
+msgid ""
+"Full color customizations options will allow you to fully customize the look "
+"of your website."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:192
+msgid ""
+"Full typeface & font customizations options will allow you to fully "
+"customize the look of your website, with free access to 1000+ Google Fonts."
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: customizer/customizer.php:177
+msgid "General"
+msgstr ""
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:59
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:104
+msgid "Go to Endurance Support Forum"
+msgstr ""
+
+#: customizer/sections/general.php:23
+msgid "Header Layout"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:75
+msgid "Hide this notice"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:19
+msgid "Homepage: Welcome Message"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.ilovewp.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.ilovewp.com/themes/endurance/"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:125
+msgid ""
+"If you enjoy using Endurance Theme, please leave a review for it on "
+"WordPress.org. It helps us continue providing updates and support for it."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:84
+msgid "ILoveWP.com Logo"
+msgstr ""
+
+#. Author of the theme
+msgid "ilovewpcom"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:200
+msgid "Import the demo content for an easier start with the theme."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:195
+msgid "Individual Layout Settings"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:123
+msgid "Leave a Review"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:186
+#: ilovewp-admin/ilovewp-theme-settings.php:211
+msgid "Limited"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:186
+msgid "Limited color customization options are available."
+msgstr ""
+
+#: functions.php:341
+msgid "Logo for "
+msgstr ""
+
+#: functions.php:107
+msgid "Main Menu"
+msgstr ""
+
+#: template-parts/mobile-menu-toggle.php:4
+#: template-parts/mobile-menu-toggle.php:6
+msgid "Menu"
+msgstr ""
+
+#: functions.php:108 template-parts/mobile-menu.php:14
+msgid "Mobile Menu"
+msgstr ""
+
+#: 404.php:28 search.php:26
+msgid "Monthly Archives"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:161
+msgid "More about Foundation"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: customizer/helpers.php:159 customizer/helpers.php:209
+#: ilovewp-admin/ilovewp-theme-settings.php:191
+msgid "None"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:221
+msgid "Nonpriority"
+msgstr ""
+
+#: customizer/customizer.php:237
+msgid "Official Theme Page"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder Template"
+msgstr ""
+
+#: 404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: functions.php:125
+msgid "Page Thumbnail - Large - 660x440"
+msgstr ""
+
+#: functions.php:126
+msgid "Page Thumbnail - Small - 300x200"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:82
+msgid "Pages"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:56
+msgid "Photozoom Theme Screenshot"
+msgstr ""
+
+#: functions.php:364
+msgid "Pingback:"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:222
+msgid "Priority Support"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:222
+msgid "Quick and friendly support is available via email and Skype."
+msgstr ""
+
+#: customizer/customizer.php:247
+msgid "Rate Endurance"
+msgstr ""
+
+#: index.php:40
+msgid "Recent Posts"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:175
+msgid "Responsive Layout"
+msgstr ""
+
+#: search.php:12
+msgid "Search Results for"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:199
+msgid "Show sub menu"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: customizer/sections/background.php:10
+msgid "Site Background"
+msgstr ""
+
+#: header.php:20
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:124
+msgid "Slideshow Size - 980x450"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:145
+msgid "Subscribe"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:137
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:220
+msgid "Support"
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:99
+#, php-format
+msgid ""
+"Support for %1$s Theme is provided in the official WordPress.org community "
+"support forums. "
+msgstr ""
+
+#: customizer/customizer.php:242
+msgid "Support Forum"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:221
+msgid "Support is provided in the WordPress.org community forums."
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:109
+msgid "Tags"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:50
+msgid "Thank you for choosing Endurance Theme!"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:211
+msgid "The theme will be updated to fix potential bugs and serious issues."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:101
+msgid ""
+"The usual response time is less than 45 minutes during regular work hours, "
+"Monday through Friday, 9:00am - 6:00pm (GMT+01:00). <br>Response time can be "
+"slower outside of these hours."
+msgstr ""
+
+#: footer.php:34
+msgid "Theme by"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:80
+msgid "Theme Demo"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:79
+msgid "Theme Details"
+msgstr ""
+
+#: customizer/customizer.php:232
+msgid "Theme Documentation"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:76
+msgid "Theme Help"
+msgstr ""
+
+#: customizer/customizer.php:257
+msgid "Theme Help & Support"
+msgstr ""
+
+#: customizer/sections/general.php:13
+msgid "Theme Settings"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:210
+msgid "Theme Updates"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:81
+#: ilovewp-admin/ilovewp-theme-settings.php:111
+msgid "Theme Video Tutorial"
+msgstr ""
+
+#. link to pages
+#: customizer/sections/general.php:47
+#, php-format
+msgid "This list is populated with <a href=\"%1$s\">Pages</a>."
+msgstr ""
+
+#: functions.php:127
+msgid "Thumbnail - Large - 600x600"
+msgstr ""
+
+#: functions.php:128
+msgid "Thumbnail - Small - 300x300"
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:54
+#, php-format
+msgid ""
+"To take advantage of everything that this theme can offer, please take a "
+"look at the <a href=\"%2$s\">Get Started with %1$s</a> page."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:170
+msgid "Unlimited theme usage"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:157
+#: ilovewp-admin/ilovewp-theme-settings.php:225
+msgid "Upgrade to Foundation"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:161
+msgid "Video about Foundation"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:104
+msgid "View Endurance Documentation"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:21
+msgid ""
+"We recommend adding a single [Text Widget]. The widget's title will be "
+"wrapped in a H1 tag."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:140
+msgid ""
+"We send out the newsletter once every few months. It contains information "
+"about our new themes and important theme updates."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:147
+msgid ""
+"We use Mailchimp as our marketing platform. By clicking above to subscribe, "
+"you acknowledge that your information will be transferred to Mailchimp for "
+"processing."
+msgstr ""
+
+#: customizer/sections/general.php:117
+msgid ""
+"When opening a child page with a featured image, display the parent page "
+"title overlaid over the featured image."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:127
+msgid "Write a Review for Endurance"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:170
+msgid ""
+"You can use the theme on any number of websites for as long as you wish."
+msgstr ""
+
+#: functions.php:388
+msgid "Your comment is awaiting moderation."
+msgstr ""
